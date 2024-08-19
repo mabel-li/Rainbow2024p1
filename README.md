@@ -8,3 +8,4 @@ green
 blue
 violet
 indigo
+pink
