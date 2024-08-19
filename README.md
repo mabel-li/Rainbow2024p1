@@ -9,3 +9,4 @@ blue
 violet
 indigo
 pink
+monkeys
